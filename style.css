@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e9eaea;
+    margin: 20px;
+}
+
+h1 {
+    color: red;
+}
+
+.grijs {
+    color: grey;
+}
+
+p {
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 1em;
+    display: block;
+    width: fit-content;
+}
